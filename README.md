@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hey, pal 👋
+
+:office: Group Finance Manager at [Bread Holdings Ltd](http://www.gailsbread.co.uk)  
+:soccer: Vice Chair & Merchandise Lead at [Dulwich Hamlet Supporters' Trust](http://www.dhst.org.uk)  
+
+_Currently studying Data Science at HyperionDev_
+
+
 
 <!--
 **lyhamb/lyhamb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
